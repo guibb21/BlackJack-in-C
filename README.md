@@ -1,6 +1,6 @@
 # LittleBlackJack
 
-A command-line Blackjack game written in C.
+A command-line Blackjack game written in C. (made in about 3 hours)
 
 ## How it works
 
